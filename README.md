@@ -1,10 +1,8 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/MKlblangenois/Design-System-Library)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/MKlblangenois/Storybook-starter)
 
-# Design system library
+# Storybook start
 
-Design system library is a library build in React with Storybook to help developer and designer to agree on design system conventions of a site or app.
-
-[Demo](https://design-system-library.netlify.com/)
+A blueprint for Storybook project created with create-react-app and set support for SASS.
 
 ## Installation
 
@@ -32,12 +30,10 @@ or
 yarn run storybook
 ```
 
-After you've launched Storybook server, you can edit your components.
+After you've launched Storybook server, you can delete Welcome component and enjoy!
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MPL-2.0](https://choosealicense.com/licenses/mpl-2.0/)
